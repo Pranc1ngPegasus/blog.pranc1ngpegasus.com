@@ -11,15 +11,11 @@ export const config = {
   headerLinks: [
     {
       title: "About",
-      href: "/about",
-    },
-    {
-      title: "Company",
-      href: "https://zenn.dev/catnose99/articles/cb72a73368a547756862",
+      href: "https://pranc1ngpegasus.com",
     },
     {
       title: "GitHub",
-      href: "https://github.com/catnose99/team-blog-hub",
+      href: "https://github.com/Pranc1ngPegasus",
     },
   ],
 };
