@@ -26,9 +26,6 @@ jobs:
     - name: export
       run: yarn run export
 
-    - name: add nojekyll
-      run: touch ./out/.nojekyll
-
     - name: Copy CNAME
       run: cp CNAME out/CNAME
 
