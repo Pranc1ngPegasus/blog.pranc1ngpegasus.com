@@ -1,12 +1,12 @@
 export const config = {
   siteMeta: {
-    title: "Team Blog Hub",
+    title: "飛ばねぇ馬はただの馬。",
     teamName: "catnose Inc.",
-    description: "RSS based blog starter kit for teams.",
+    description: "Pranc1ngPegasusのブログ",
   },
   siteRoot:
     process.env.NODE_ENV === "production"
-      ? "https://team-blog-hub.vercel.app"
+      ? "https://blog.pranc1ngpegasus.com"
       : "http://localhost:3000",
   headerLinks: [
     {
