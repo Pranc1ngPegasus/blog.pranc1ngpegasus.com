@@ -36,10 +36,7 @@ const Page: NextPage = () => {
       <ContentWrapper>
         <section className="members">
           <h1 className="members__title">
-            Members{" "}
-            <span className="members__title-team">
-              @ {config.siteMeta.teamName}
-            </span>
+            Sources
           </h1>
           <div className="members__cards">
             {members.map((member, i) => (
