@@ -1,25 +1,21 @@
 export const config = {
   siteMeta: {
-    title: "Team Blog Hub",
+    title: "飛ばねぇ馬はただの馬。",
     teamName: "catnose Inc.",
-    description: "RSS based blog starter kit for teams.",
+    description: "Pranc1ngPegasusのブログ",
   },
   siteRoot:
     process.env.NODE_ENV === "production"
-      ? "https://team-blog-hub.vercel.app"
+      ? "https://blog.pranc1ngpegasus.com"
       : "http://localhost:3000",
   headerLinks: [
     {
       title: "About",
-      href: "/about",
-    },
-    {
-      title: "Company",
-      href: "https://zenn.dev/catnose99/articles/cb72a73368a547756862",
+      href: "https://pranc1ngpegasus.com",
     },
     {
       title: "GitHub",
-      href: "https://github.com/catnose99/team-blog-hub",
+      href: "https://github.com/Pranc1ngPegasus",
     },
   ],
 };
