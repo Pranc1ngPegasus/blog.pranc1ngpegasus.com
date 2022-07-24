@@ -15,4 +15,18 @@ export const members: Member[] = [
     githubUsername: "Pranc1ngPegasus",
     websiteUrl: "https://pranc1ngpegasus.com",
   },
+  {
+    id: "hatenablog",
+    name: "はてなブログ",
+    role: "",
+    bio: "",
+    avatarSrc: "https://pbs.twimg.com/profile_images/832417572179939328/sMSK9Con_400x400.jpg",
+    sources: [
+      "https://pranc1ngpegasus.hatenablog.com/rss",
+    ],
+    includeUrlRegex: "pranc1ngpegasus.hatenablog.com",
+    twitterUsername: "pranc1ngpegasus",
+    githubUsername: "Pranc1ngPegasus",
+    websiteUrl: "https://pranc1ngpegasus.com",
+  }
 ];
