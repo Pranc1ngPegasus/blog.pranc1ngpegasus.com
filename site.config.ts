@@ -17,5 +17,9 @@ export const config = {
       title: "GitHub",
       href: "https://github.com/Pranc1ngPegasus",
     },
+    {
+      title: "Twitter",
+      href: "https://twitter.com/pranc1ngpegasus",
+    }
   ],
 };
