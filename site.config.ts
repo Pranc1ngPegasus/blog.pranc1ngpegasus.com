@@ -1,7 +1,7 @@
 export const config = {
   siteMeta: {
     title: "飛ばねぇ馬はただの馬。",
-    teamName: "catnose Inc.",
+    teamName: "Pranc1ngPegasus",
     description: "Pranc1ngPegasusのブログ",
   },
   siteRoot:
